@@ -1,4 +1,4 @@
-# Name
+# Spring Cloud Eureka Server
 
 Overview
 
@@ -8,8 +8,7 @@ Overview
 
 ## Features
 
-- feature:1
-- feature:2
+- [Eureka dashboard - http://localhost:8761](http://localhost:8761)
 
 ## Requirement
 
